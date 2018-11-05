@@ -3,6 +3,6 @@
 	
 	</head>
 	<body>
-		<h1> Projeto do Thiago</h1>
+		<h1> Projeto novo do Thiago</h1>
 	</body>
 </html>
